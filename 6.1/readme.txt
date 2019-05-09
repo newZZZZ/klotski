@@ -11,5 +11,7 @@ Opam Install imagelib
 
 To build:
 make 
+.\Klotski
+
 
 
